@@ -14,6 +14,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
+    "@jxnblk/gatsby-theme-mdx-blog": "^0.0.16",
     "gatsby": "^2.5.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"

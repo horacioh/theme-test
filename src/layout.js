@@ -3,8 +3,8 @@ import {
   ComponentProvider,
   Root,
   Container,
+  Header
 } from "@jxnblk/gatsby-theme-mdx-blog"
-import Header from './@jxnblk/gatsby-theme-mdx-blog/header'
 
 export default ({ children }) => (
   <ComponentProvider>
