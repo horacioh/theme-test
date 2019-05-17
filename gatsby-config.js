@@ -9,9 +9,7 @@ module.exports = {
     {
       resolve: '@jxnblk/gatsby-theme-mdx-blog',
       options: {
-        name: 'writing',
-        path: 'src/content',
-        pageSize: 16,
+        name: ''
       }
     }
   ]
