@@ -5,5 +5,14 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  __experimentalThemes: [
+    {
+      resolve: '@jxnblk/gatsby-theme-mdx-blog',
+      options: {
+        name: 'writing',
+        path: 'src/content',
+        pageSize: 16,
+      }
+    }
+  ]
 }
